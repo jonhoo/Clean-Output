@@ -1,0 +1,5 @@
+This class can be used to reformat HTML or XML documents.
+
+It can read a string with HTML or XML and indent its lines according to the depth of the tags and data.
+
+Optional it can show in the outputted document a trace of the indentation level.
